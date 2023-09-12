@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>&#34;recursion&#34; | Sandra Auderset</title>
+    <link>https://sauderset.github.io/tag/recursion/</link>
+      <atom:link href="https://sauderset.github.io/tag/recursion/index.xml" rel="self" type="application/rss+xml" />
+    <description>&#34;recursion&#34;</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://sauderset.github.io/media/icon_hu48642f0b9060ac255b5794276cadbe1e_24938_512x512_fill_lanczos_center_3.png</url>
+      <title>&#34;recursion&#34;</title>
+      <link>https://sauderset.github.io/tag/recursion/</link>
+    </image>
+    
+    <item>
+      <title>NP recursion over time: Evidence from Indo-European</title>
+      <link>https://sauderset.github.io/publication/widmer-2017-np/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://sauderset.github.io/publication/widmer-2017-np/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
