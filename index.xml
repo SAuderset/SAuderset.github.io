@@ -13,6 +13,22 @@
     </image>
     
     <item>
+      <title>Subgrouping in a `dialect continuum&#39;: A Bayesian phylogenetic analysis of the Mixtecan language family</title>
+      <link>https://sauderset.github.io/publication/auderset-2023-subgrouping/</link>
+      <pubDate>Thu, 01 Jun 2023 00:00:00 +0000</pubDate>
+      <guid>https://sauderset.github.io/publication/auderset-2023-subgrouping/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Measuring and assessing indeterminacy and variation in the morphology-syntax distinction</title>
+      <link>https://sauderset.github.io/publication/tallman-2023-measuring/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://sauderset.github.io/publication/tallman-2023-measuring/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Learning together through literacy materials for Tù&#39;un na Ñuu Sá Mátxí Ntxè&#39;è (Mixtec)</title>
       <link>https://sauderset.github.io/talk/learning-together-through-literacy-materials-for-tuun-na-nuu-sa-matxi-ntxee-mixtec/</link>
       <pubDate>Thu, 11 Mar 2021 13:04:49 +0100</pubDate>
@@ -433,7 +449,7 @@ data.head()
 
 
 
-&lt;div id=&#34;chart-671934528&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-694381527&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   (function() {
     let a = setInterval( function() {
@@ -443,7 +459,7 @@ data.head()
       clearInterval( a );
 
       Plotly.d3.json(&#34;./line-chart.json&#34;, function(chart) {
-        Plotly.plot(&#39;chart-671934528&#39;, chart.data, chart.layout, {responsive: true});
+        Plotly.plot(&#39;chart-694381527&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
