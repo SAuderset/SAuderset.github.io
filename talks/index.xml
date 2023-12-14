@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Talks | Sandra Auderset</title>
+    <link>https://sauderset.github.io/talks/</link>
+      <atom:link href="https://sauderset.github.io/talks/index.xml" rel="self" type="application/rss+xml" />
+    <description>Talks</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 05 Sep 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://sauderset.github.io/media/icon_hu48642f0b9060ac255b5794276cadbe1e_24938_512x512_fill_lanczos_center_3.png</url>
+      <title>Talks</title>
+      <link>https://sauderset.github.io/talks/</link>
+    </image>
+    
+    <item>
+      <title>Is tone change more irregular and rapid than segmental change? A Mixtec case study</title>
+      <link>https://sauderset.github.io/talks/auderset-2023-is-tone/</link>
+      <pubDate>Tue, 05 Sep 2023 00:00:00 +0000</pubDate>
+      <guid>https://sauderset.github.io/talks/auderset-2023-is-tone/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Comprehensive database of sound changes reveals tree-like and wave-like processes in the Mixtec language family</title>
+      <link>https://sauderset.github.io/talks/auderset-2023-comprehensive/</link>
+      <pubDate>Tue, 29 Aug 2023 00:00:00 +0000</pubDate>
+      <guid>https://sauderset.github.io/talks/auderset-2023-comprehensive/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Trabajos sobre lenguas mixtecas en California, parte 2: resultados</title>
+      <link>https://sauderset.github.io/talks/hernandez-martinez-2023-trabajos/</link>
+      <pubDate>Thu, 20 Apr 2023 00:00:00 +0000</pubDate>
+      <guid>https://sauderset.github.io/talks/hernandez-martinez-2023-trabajos/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dynamic social and spatial relations shape mutual intelligibility between two Mixtec communities</title>
+      <link>https://sauderset.github.io/talks/mendoza-2023-dynamic/</link>
+      <pubDate>Sat, 04 Mar 2023 00:00:00 +0000</pubDate>
+      <guid>https://sauderset.github.io/talks/mendoza-2023-dynamic/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Limitations of intelligibility: Dynamic relations between Mixtec communities</title>
+      <link>https://sauderset.github.io/talks/auderset-2023-limitations/</link>
+      <pubDate>Sun, 22 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://sauderset.github.io/talks/auderset-2023-limitations/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Subgrouping in a `dialect continuum&#39;: A Bayesian phylogenetic analysis of the Mixtecan language family</title>
+      <link>https://sauderset.github.io/talks/auderset-2022-subgrouping-talk/</link>
+      <pubDate>Thu, 04 Aug 2022 00:00:00 +0000</pubDate>
+      <guid>https://sauderset.github.io/talks/auderset-2022-subgrouping-talk/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Revisiting clitic phenomena in Mixtec </title>
+      <link>https://sauderset.github.io/talks/auderset-2021-revisiting/</link>
+      <pubDate>Mon, 30 Aug 2021 00:00:00 +0000</pubDate>
+      <guid>https://sauderset.github.io/talks/auderset-2021-revisiting/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Morphosyntactic positions and the indeterminacy of constituency diagnostics: a case study of San Martín Duraznos Mixtec</title>
+      <link>https://sauderset.github.io/talks/auderset-2021-morphosyntactic/</link>
+      <pubDate>Sat, 10 Apr 2021 00:00:00 +0000</pubDate>
+      <guid>https://sauderset.github.io/talks/auderset-2021-morphosyntactic/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Learning together through literacy materials for Tù&#39;un na Ñuu Sá Mátxí Ntxè&#39;è (Mixtec)</title>
+      <link>https://sauderset.github.io/talks/auderset-2021-learning/</link>
+      <pubDate>Thu, 11 Mar 2021 13:04:49 +0100</pubDate>
+      <guid>https://sauderset.github.io/talks/auderset-2021-learning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Beyond binaries in community-centered research relationships</title>
+      <link>https://sauderset.github.io/talks/milpa-2021-beyond/</link>
+      <pubDate>Mon, 01 Mar 2021 00:00:00 +0000</pubDate>
+      <guid>https://sauderset.github.io/talks/milpa-2021-beyond/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>El tono el Mixteco de San Martín Duraznos</title>
+      <link>https://sauderset.github.io/talks/auderset-2020-el-tono/</link>
+      <pubDate>Sun, 01 Nov 2020 00:00:00 +0000</pubDate>
+      <guid>https://sauderset.github.io/talks/auderset-2020-el-tono/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Correspondencias tonales regulares e irregulares en lenguas mixtecas de California</title>
+      <link>https://sauderset.github.io/talks/campbell-2019-correspondencias/</link>
+      <pubDate>Tue, 01 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>https://sauderset.github.io/talks/campbell-2019-correspondencias/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hacía un análisis de la flexión verbal en el Tù’un Na Ñuu Sá Matxí Ntxè’è (Mixteco de San Martín Duraznos)</title>
+      <link>https://sauderset.github.io/talks/auderset-2019-hacia/</link>
+      <pubDate>Tue, 01 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>https://sauderset.github.io/talks/auderset-2019-hacia/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>An empirical reconsideration of tone volatility and segment stability in Mixtec languages</title>
+      <link>https://sauderset.github.io/talks/auderset-2019-an-empirical/</link>
+      <pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>https://sauderset.github.io/talks/auderset-2019-an-empirical/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Advancing the diachronic and typological study of tone with comparative lexical databases: a case study of five Mixtec varieties</title>
+      <link>https://sauderset.github.io/talks/auderset-2019-advancing/</link>
+      <pubDate>Thu, 01 Aug 2019 00:00:00 +0000</pubDate>
+      <guid>https://sauderset.github.io/talks/auderset-2019-advancing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Unity and diversity in causative constructions of Mixtec languages</title>
+      <link>https://sauderset.github.io/talks/auderset-2018-unity/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://sauderset.github.io/talks/auderset-2018-unity/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

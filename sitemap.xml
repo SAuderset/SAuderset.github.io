@@ -2,19 +2,71 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://sauderset.github.io/</loc>
-    <lastmod>2023-09-12T00:00:00+00:00</lastmod>
+    <loc>https://sauderset.github.io/resources/cognates-project/</loc>
+    <lastmod>2023-12-12T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://sauderset.github.io/publication-type/2/</loc>
+    <loc>https://sauderset.github.io/resources/changes-project/</loc>
+    <lastmod>2023-12-12T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://sauderset.github.io/resources/documentation-project/</loc>
+    <lastmod>2023-12-12T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://sauderset.github.io/resources/constituency-project/</loc>
+    <lastmod>2023-12-12T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://sauderset.github.io/resources/thesis-project/</loc>
+    <lastmod>2023-01-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://sauderset.github.io/resources/resources-project/</loc>
+    <lastmod>2023-12-12T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://sauderset.github.io/publication-type/6/</loc>
+    <lastmod>2020-12-10T18:34:13+01:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://sauderset.github.io/publication/auderset-2024-constituency/</loc>
     <lastmod>2020-12-10T18:34:13+01:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://sauderset.github.io/publication_types/</loc>
-    <lastmod>2021-03-11T13:04:50+01:00</lastmod>
+    <lastmod>2023-09-05T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://sauderset.github.io/publication/</loc>
+    <lastmod>2020-12-10T18:34:13+01:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://sauderset.github.io/resources/</loc>
+    <lastmod>2023-12-12T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://sauderset.github.io/</loc>
+    <lastmod>2023-09-12T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://sauderset.github.io/publication-type/0/</loc>
+    <lastmod>2023-09-05T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://sauderset.github.io/talks/auderset-2023-is-tone/</loc>
+    <lastmod>2023-09-05T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://sauderset.github.io/talks/</loc>
+    <lastmod>2023-09-05T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://sauderset.github.io/talks/auderset-2023-comprehensive/</loc>
+    <lastmod>2023-08-29T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://sauderset.github.io/publication-type/2/</loc>
     <lastmod>2020-12-10T18:34:13+01:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -22,52 +74,44 @@
     <lastmod>2020-12-10T18:34:13+01:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
+    <loc>https://sauderset.github.io/talks/hernandez-martinez-2023-trabajos/</loc>
+    <lastmod>2023-04-20T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://sauderset.github.io/talks/mendoza-2023-dynamic/</loc>
+    <lastmod>2023-03-04T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://sauderset.github.io/talks/auderset-2023-limitations/</loc>
+    <lastmod>2023-01-22T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
     <loc>https://sauderset.github.io/publication/tallman-2023-measuring/</loc>
     <lastmod>2020-12-10T18:30:09+01:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://sauderset.github.io/publication-type/0/</loc>
-    <lastmod>2021-03-11T13:04:50+01:00</lastmod>
+    <loc>https://sauderset.github.io/talks/auderset-2022-subgrouping-talk/</loc>
+    <lastmod>2022-08-04T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://sauderset.github.io/talk/learning-together-through-literacy-materials-for-tuun-na-nuu-sa-matxi-ntxee-mixtec/</loc>
+    <loc>https://sauderset.github.io/talks/auderset-2021-revisiting/</loc>
+    <lastmod>2021-08-30T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://sauderset.github.io/talks/auderset-2021-morphosyntactic/</loc>
+    <lastmod>2021-04-10T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://sauderset.github.io/talks/auderset-2021-learning/</loc>
     <lastmod>2021-03-11T13:04:49+01:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://sauderset.github.io/slides/auderset-2021-learning/</loc>
-    <lastmod>2021-03-11T13:04:49+01:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://sauderset.github.io/event/</loc>
-    <lastmod>2021-03-11T13:04:50+01:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://sauderset.github.io/slides/</loc>
-    <lastmod>2021-03-11T13:04:50+01:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://sauderset.github.io/publication-type/6/</loc>
-    <lastmod>2020-12-10T18:34:13+01:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://sauderset.github.io/talk/beyond-binaries-in-community-centered-research-relationships/</loc>
-    <lastmod>2021-03-11T13:04:50+01:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://sauderset.github.io/slides/milpa-2021-beyond/</loc>
-    <lastmod>2021-03-11T13:04:50+01:00</lastmod>
+    <loc>https://sauderset.github.io/talks/milpa-2021-beyond/</loc>
+    <lastmod>2021-03-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://sauderset.github.io/publication/auderset-2021-the-antipassive/</loc>
     <lastmod>2020-12-10T18:34:13+01:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://sauderset.github.io/project/thesis-project/</loc>
-    <lastmod>2021-01-01T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://sauderset.github.io/project/</loc>
-    <lastmod>2021-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://sauderset.github.io/tag/academic/</loc>
@@ -102,14 +146,6 @@
     <lastmod>2020-12-13T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://sauderset.github.io/project/documentation-project/</loc>
-    <lastmod>2020-12-12T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://sauderset.github.io/project/resources-project/</loc>
-    <lastmod>2020-12-12T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
     <loc>https://sauderset.github.io/post/2020-12-01-r-rmarkdown/</loc>
     <lastmod>2020-12-01T21:13:14-05:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -131,51 +167,31 @@
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://sauderset.github.io/publication-type/1/</loc>
-    <lastmod>2020-12-11T09:39:15+01:00</lastmod>
+    <lastmod>2020-12-10T18:30:08+01:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://sauderset.github.io/talk/el-tono-el-mixteco-de-san-martin-duraznos/</loc>
-    <lastmod>2020-12-11T09:39:15+01:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://sauderset.github.io/slides/auderset-2020-el-tono/</loc>
-    <lastmod>2020-12-11T09:39:15+01:00</lastmod>
+    <loc>https://sauderset.github.io/talks/auderset-2020-el-tono/</loc>
+    <lastmod>2020-11-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://sauderset.github.io/publication/auderset-2020-interrogatives/</loc>
     <lastmod>2020-12-10T18:30:09+01:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://sauderset.github.io/talk/correspondencias-tonales-regulares-e-irregulares-en-lenguas-mixtecas-de-california/</loc>
-    <lastmod>2020-12-10T18:34:13+01:00</lastmod>
+    <loc>https://sauderset.github.io/talks/campbell-2019-correspondencias/</loc>
+    <lastmod>2019-10-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://sauderset.github.io/slides/campbell-2019-correspondencias/</loc>
-    <lastmod>2020-12-10T18:34:13+01:00</lastmod>
+    <loc>https://sauderset.github.io/talks/auderset-2019-hacia/</loc>
+    <lastmod>2019-10-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://sauderset.github.io/talk/hacia-un-analisis-de-la-flexion-verbal-en-el-tuun-na-nuu-sa-matxi-ntxee-mixteco-de-san-martin-duraznos/</loc>
-    <lastmod>2020-12-11T09:39:15+01:00</lastmod>
+    <loc>https://sauderset.github.io/talks/auderset-2019-an-empirical/</loc>
+    <lastmod>2019-09-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://sauderset.github.io/slides/auderset-2019-hacia/</loc>
-    <lastmod>2020-12-11T09:39:15+01:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://sauderset.github.io/talk/an-empirical-reconsideration-of-tone-volatility-and-segment-stability-in-mixtec-languages/</loc>
-    <lastmod>2020-12-10T18:34:13+01:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://sauderset.github.io/slides/auderset-2019-an-empirical/</loc>
-    <lastmod>2020-12-10T18:34:13+01:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://sauderset.github.io/talk/advancing-the-diachronic-and-typological-study-of-tone-with-comparative-lexical-databases-a-case-study-of-five-mixtec-varieties/</loc>
-    <lastmod>2020-12-10T18:34:13+01:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://sauderset.github.io/slides/auderset-2019-advancing/</loc>
-    <lastmod>2020-12-10T18:34:13+01:00</lastmod>
+    <loc>https://sauderset.github.io/talks/auderset-2019-advancing/</loc>
+    <lastmod>2019-08-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://sauderset.github.io/post/writing-technical-content/</loc>
@@ -186,24 +202,12 @@
     <lastmod>2019-09-05T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://sauderset.github.io/privacy/</loc>
-    <lastmod>2018-06-28T00:00:00+01:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://sauderset.github.io/terms/</loc>
-    <lastmod>2018-06-28T00:00:00+01:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
     <loc>https://sauderset.github.io/publication/lester-2018-case/</loc>
     <lastmod>2020-12-10T18:30:08+01:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://sauderset.github.io/talk/unity-and-diversity-in-causative-constructions-of-mixtec-languages/</loc>
-    <lastmod>2020-12-11T09:49:11+01:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://sauderset.github.io/slides/auderset-2018-unity/</loc>
-    <lastmod>2020-12-11T09:49:11+01:00</lastmod>
+    <loc>https://sauderset.github.io/talks/auderset-2018-unity/</loc>
+    <lastmod>2018-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://sauderset.github.io/tag/recursion/</loc>
