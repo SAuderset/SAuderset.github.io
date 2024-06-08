@@ -105,6 +105,53 @@ This dissertation investigates the dynamics of language change in the Mixtec lan
     </item>
     
     <item>
+      <title>Statistics for linguistics using R</title>
+      <link>https://sauderset.github.io/teaching/statistics/</link>
+      <pubDate>Sun, 01 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>https://sauderset.github.io/teaching/statistics/</guid>
+      <description>&lt;h3 id=&#34;university-of-bern-fall-2024&#34;&gt;University of Bern, Fall 2024&lt;/h3&gt;
+&lt;p&gt;MA and advanced BA
+(syllabus in prep)&lt;/p&gt;
+&lt;p&gt;Description:
+This class provides an introduction to data exploration and descriptive and inferential statistics with a focus on applications in (comparative) linguistics using the programming language R. Topics include: frequentist versus Bayesian statistics; linear, logistic, and multilevel models; clustering and random forests; and other statistical analyses depending on the participants’ interests.&lt;/p&gt;
+&lt;h3 id=&#34;university-of-california-santa-barbara-fall-2018&#34;&gt;University of California Santa Barbara, Fall 2018&lt;/h3&gt;
+&lt;p&gt;Undergrad, upper division&lt;/p&gt;
+&lt;p&gt;Download the &lt;a href=&#34;Ling104_Syllabus.pdf&#34;&gt;syllabus&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;If you&amp;rsquo;re interested in teaching a similar class and would like access to the full class materials, please contact me.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Linguistic Data Analysis using R</title>
+      <link>https://sauderset.github.io/teaching/lingdataanalysis/</link>
+      <pubDate>Sat, 01 Jun 2024 00:00:00 +0000</pubDate>
+      <guid>https://sauderset.github.io/teaching/lingdataanalysis/</guid>
+      <description>&lt;h3 id=&#34;university-of-bern-spring-2024&#34;&gt;University of Bern, Spring 2024&lt;/h3&gt;
+&lt;p&gt;MA and advanced BA&lt;/p&gt;
+&lt;p&gt;Description:
+This class introduces the conceptual background and methodology for creating, annotating, cleaning, and analyzing linguistic data sets and databases using the programming language R (with tidyverse). It covers database design principles, how to read in and clean data sets, and visualizations (including maps), as well as good coding practices with reproducibility and reusability in mind.&lt;/p&gt;
+&lt;p&gt;Download the &lt;a href=&#34;syllabus.pdf&#34;&gt;syllabus&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;If you&amp;rsquo;re interested in teaching a similar class and would like access to the full class materials, please contact me.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Rates of change and phylogenetic signal in Mixtec tone</title>
+      <link>https://sauderset.github.io/publication/auderset-2024-rates/</link>
+      <pubDate>Sat, 01 Jun 2024 00:00:00 +0000</pubDate>
+      <guid>https://sauderset.github.io/publication/auderset-2024-rates/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Mixtec sound change database</title>
+      <link>https://sauderset.github.io/publication/auderset-2024-a-mixtec/</link>
+      <pubDate>Wed, 13 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>https://sauderset.github.io/publication/auderset-2024-a-mixtec/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Constituency in Tù&#39;un Ntá&#39;ví (Mixtec) of San Martín Duraznos</title>
       <link>https://sauderset.github.io/publication/auderset-2024-constituency/</link>
       <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
@@ -169,6 +216,17 @@ This dissertation investigates the dynamics of language change in the Mixtec lan
     </item>
     
     <item>
+      <title>Quantitative Methods for Typologists Using R</title>
+      <link>https://sauderset.github.io/teaching/rintro/</link>
+      <pubDate>Wed, 14 Dec 2022 00:00:00 +0000</pubDate>
+      <guid>https://sauderset.github.io/teaching/rintro/</guid>
+      <description>&lt;h3 id=&#34;14th-conference-of-the-association-for-linguistic-typology-ut-austin-dec-2022&#34;&gt;14th Conference of the Association for Linguistic Typology, UT Austin, Dec. 2022&lt;/h3&gt;
+&lt;p&gt;Teach-In for conference participants at the ALT2022 taught by Sandra Auderset, Olena Shcherbakova, and Adam Tallman.
+The code and materials for &amp;ldquo;Quantitative Methods for Typologists Using R&amp;rdquo; teach-in can be found &lt;a href=&#34;https://github.com/OlenaShcherbakova/R_teach_in&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Subgrouping in a `dialect continuum&#39;: A Bayesian phylogenetic analysis of the Mixtecan language family</title>
       <link>https://sauderset.github.io/talks/auderset-2022-subgrouping-talk/</link>
       <pubDate>Thu, 04 Aug 2022 00:00:00 +0000</pubDate>
@@ -182,6 +240,17 @@ This dissertation investigates the dynamics of language change in the Mixtec lan
       <pubDate>Mon, 30 Aug 2021 00:00:00 +0000</pubDate>
       <guid>https://sauderset.github.io/talks/auderset-2021-revisiting/</guid>
       <description></description>
+    </item>
+    
+    <item>
+      <title>LaTeX for Linguists&#43;</title>
+      <link>https://sauderset.github.io/teaching/latex/</link>
+      <pubDate>Wed, 14 Jul 2021 00:00:00 +0000</pubDate>
+      <guid>https://sauderset.github.io/teaching/latex/</guid>
+      <description>&lt;h3 id=&#34;mpi-shh-summer-school-2021-doorway-to-human-history&#34;&gt;MPI-SHH Summer School 2021: Doorway to Human History&lt;/h3&gt;
+&lt;p&gt;Workshop class for summer school participants on the basics of LaTeX.
+Slides can be downloaded &lt;a href=&#34;LatexWorkshop&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -489,7 +558,7 @@ data.head()
 
 
 
-&lt;div id=&#34;chart-752384169&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-685942713&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   (function() {
     let a = setInterval( function() {
@@ -499,7 +568,7 @@ data.head()
       clearInterval( a );
 
       Plotly.d3.json(&#34;./line-chart.json&#34;, function(chart) {
-        Plotly.plot(&#39;chart-752384169&#39;, chart.data, chart.layout, {responsive: true});
+        Plotly.plot(&#39;chart-685942713&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
@@ -835,6 +904,24 @@ Crash --&gt; [*]
 &lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-bash&#34; data-lang=&#34;bash&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;jupyter nbconvert index.ipynb --to markdown --NbConvertApp.output_files_dir&lt;span class=&#34;o&#34;&gt;=&lt;/span&gt;.
 &lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;h2 id=&#34;example&#34;&gt;Example&lt;/h2&gt;
 &lt;p&gt;This post was created with Jupyter. The orginal files can be found at &lt;a href=&#34;https://github.com/gcushen/hugo-academic/tree/master/exampleSite/content/post/jupyter&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://github.com/gcushen/hugo-academic/tree/master/exampleSite/content/post/jupyter&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Privacy Policy</title>
+      <link>https://sauderset.github.io/privacy/</link>
+      <pubDate>Thu, 28 Jun 2018 00:00:00 +0100</pubDate>
+      <guid>https://sauderset.github.io/privacy/</guid>
+      <description>&lt;p&gt;Add your privacy policy here and set &lt;code&gt;draft: false&lt;/code&gt; to publish it. Otherwise, delete this file if you don&amp;rsquo;t need it.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Terms</title>
+      <link>https://sauderset.github.io/terms/</link>
+      <pubDate>Thu, 28 Jun 2018 00:00:00 +0100</pubDate>
+      <guid>https://sauderset.github.io/terms/</guid>
+      <description>&lt;p&gt;Add your terms here and set &lt;code&gt;draft: false&lt;/code&gt; to publish it. Otherwise, delete this file if you don&amp;rsquo;t need it.&lt;/p&gt;
 </description>
     </item>
     

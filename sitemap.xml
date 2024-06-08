@@ -26,12 +26,20 @@
     <lastmod>2023-12-12T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://sauderset.github.io/publication-type/6/</loc>
+    <loc>https://sauderset.github.io/teaching/statistics/</loc>
+    <lastmod>2024-09-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://sauderset.github.io/teaching/</loc>
+    <lastmod>2024-09-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://sauderset.github.io/publication-type/2/</loc>
     <lastmod>2020-12-10T18:34:13+01:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://sauderset.github.io/publication/auderset-2024-constituency/</loc>
-    <lastmod>2020-12-10T18:34:13+01:00</lastmod>
+    <loc>https://sauderset.github.io/teaching/lingdataanalysis/</loc>
+    <lastmod>2024-06-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://sauderset.github.io/publication_types/</loc>
@@ -39,6 +47,22 @@
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://sauderset.github.io/publication/</loc>
+    <lastmod>2020-12-10T18:34:13+01:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://sauderset.github.io/publication/auderset-2024-rates/</loc>
+    <lastmod>2020-12-10T18:34:13+01:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://sauderset.github.io/publication/auderset-2024-a-mixtec/</loc>
+    <lastmod>2020-12-10T18:34:13+01:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://sauderset.github.io/publication-type/6/</loc>
+    <lastmod>2020-12-10T18:34:13+01:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://sauderset.github.io/publication/auderset-2024-constituency/</loc>
     <lastmod>2020-12-10T18:34:13+01:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -66,10 +90,6 @@
     <lastmod>2023-08-29T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://sauderset.github.io/publication-type/2/</loc>
-    <lastmod>2020-12-10T18:34:13+01:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
     <loc>https://sauderset.github.io/publication/auderset-2023-subgrouping/</loc>
     <lastmod>2020-12-10T18:34:13+01:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -90,12 +110,20 @@
     <lastmod>2020-12-10T18:30:09+01:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
+    <loc>https://sauderset.github.io/teaching/rintro/</loc>
+    <lastmod>2022-12-14T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
     <loc>https://sauderset.github.io/talks/auderset-2022-subgrouping-talk/</loc>
     <lastmod>2022-08-04T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://sauderset.github.io/talks/auderset-2021-revisiting/</loc>
     <lastmod>2021-08-30T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://sauderset.github.io/teaching/latex/</loc>
+    <lastmod>2021-07-14T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://sauderset.github.io/talks/auderset-2021-morphosyntactic/</loc>
@@ -200,6 +228,14 @@
   </url><url>
     <loc>https://sauderset.github.io/post/jupyter/</loc>
     <lastmod>2019-09-05T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://sauderset.github.io/privacy/</loc>
+    <lastmod>2018-06-28T00:00:00+01:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://sauderset.github.io/terms/</loc>
+    <lastmod>2018-06-28T00:00:00+01:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://sauderset.github.io/publication/lester-2018-case/</loc>
