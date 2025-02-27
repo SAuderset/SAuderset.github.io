@@ -26,7 +26,7 @@
       <link>https://sauderset.github.io/resources/changes-project/</link>
       <pubDate>Tue, 12 Dec 2023 00:00:00 +0000</pubDate>
       <guid>https://sauderset.github.io/resources/changes-project/</guid>
-      <description>&lt;p&gt;This database provides a comprehensive archive of Mixtec sound changes from 105 contemporary varieties, coded with a common methodology. It is a work in progress and continuously updated. For use in your own research and citation, please refer to the most recent release archived in Zenodo.&lt;/p&gt;
+      <description>&lt;p&gt;This database provides a comprehensive archive of Mixtec sound changes from 105 contemporary varieties, coded with a common methodology. It now also includes tone change! It is a work in progress and continuously updated. For use in your own research and citation, please refer to the most recent release archived in Zenodo.&lt;/p&gt;
 </description>
     </item>
     
@@ -35,13 +35,14 @@
       <link>https://sauderset.github.io/resources/documentation-project/</link>
       <pubDate>Tue, 12 Dec 2023 00:00:00 +0000</pubDate>
       <guid>https://sauderset.github.io/resources/documentation-project/</guid>
-      <description>&lt;p&gt;Since 2018 I&amp;rsquo;ve been working on the documentation and description of the Mixtec variety spoken in San Martín Duraznos and surrounding towns and rancherías (including: Rio de Hielo, Santo Niño Yucuyi, San Marcos Xinicuesta, Guadalupe Nundaca), as well as in diaspora communities in northern Mexico and the United States. In collaboration with Carmen Hernández Martínez, language activist and interpreter living in Oxnard, California, we started out working with the diaspora community there. In 2019, I received a Small Grant from &lt;a href=&#34;https://www.elararchive.org/dk0629/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ELDP&lt;/a&gt; that allowed us to take our work to San Martín Duraznos (Oaxaca, Mexico). This ongoing collaboration with the community of origin has resulted in a audio-visual corpus of naturalistic speech of 27h, of which about half are transcribed and translated. Based on this corpus, we created various community materials for learning and maintaining the language and bridging the gap between speakers in the diaspora and in the village of origin.&lt;/p&gt;
+      <description>&lt;p&gt;Since 2018 I&amp;rsquo;ve been working on the documentation and description of the Mixtec variety spoken in San Martín Duraznos and surrounding towns and rancherías (including: Rio de Hielo, Santo Niño Yucuyi, San Marcos Xinicuesta, Guadalupe Nundaca), as well as in diaspora communities in northern Mexico and the United States. In collaboration with Carmen Hernández Martínez, language activist and interpreter living in Oxnard, California, we started out working with the diaspora community there. In 2019, I received a Small Grant from &lt;a href=&#34;https://www.elararchive.org/dk0629/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ELDP&lt;/a&gt; that allowed us to take our work to San Martín Duraznos (Oaxaca, Mexico). This ongoing collaboration with the community of origin has resulted in a audio-visual corpus of naturalistic speech of 27h, of which about half are transcribed and translated. Based on this corpus, we created various community materials for learning and maintaining the language and bridging the gap between speakers in the diaspora and in the village of origin.
+Since 2025, I also work in the neighboring village of Guadalupe Nundaca, where they speak a similar, but not identical variety of Mixtec.&lt;/p&gt;
 &lt;h4 id=&#34;resources-on-the-web&#34;&gt;Resources on the web:&lt;/h4&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://www.elararchive.org/dk0629/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ELAR&lt;/a&gt; deposit (audio-video corpus of naturalistic speech)&lt;/li&gt;
-&lt;li&gt;Let&amp;rsquo;s learn Mixteco &lt;a href=&#34;www.letslearnmixteco.com&#34;&gt;website&lt;/a&gt; - a community-oriented bilingual website with language learning materials, games and exercises for learning and practicing San Martín Duraznos Mixtec&lt;/li&gt;
+&lt;li&gt;Let&amp;rsquo;s learn Mixteco &lt;a href=&#34;https://sites.google.com/view/mixteco-smd&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;website&lt;/a&gt; - a community-oriented bilingual website with language learning materials, games and exercises for learning and practicing San Martín Duraznos Mixtec&lt;/li&gt;
 &lt;li&gt;Let&amp;rsquo;s learn Mixteco &lt;a href=&#34;https://facebook.com/Lets-Learn-Mixteco&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;facebook page&lt;/a&gt; (managed by Carmen Hernández Martínez) - follow us for memes, videos, word of the day, and more in San Martín Duraznos Mixtec&lt;/li&gt;
-&lt;li&gt;online talking dictionary (Mixtec-Spanish-English) - link coming soon!&lt;/li&gt;
+&lt;li&gt;online talking dictionary (Mixtec-Spanish-English) - in progress!&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h4 id=&#34;resources-for-download&#34;&gt;Resources for download:&lt;/h4&gt;
 &lt;ul&gt;
@@ -64,7 +65,7 @@
 &lt;li&gt;Oct-Dec 2021: Trip #2 to San Martín Duraznos&lt;/li&gt;
 &lt;li&gt;2022: ELAR deposit online&lt;/li&gt;
 &lt;li&gt;April 2023: Trip #3 to San Martín Duraznos&lt;/li&gt;
-&lt;li&gt;Summer 2018 - ongoing: documentation in and with the diaspora community in Oxnard, CA&lt;/li&gt;
+&lt;li&gt;February 2025: Trip to Guadalupe Nundaca&lt;/li&gt;
 &lt;/ul&gt;
 </description>
     </item>
@@ -110,10 +111,10 @@ This dissertation investigates the dynamics of language change in the Mixtec lan
       <pubDate>Sun, 01 Sep 2024 00:00:00 +0000</pubDate>
       <guid>https://sauderset.github.io/teaching/statistics/</guid>
       <description>&lt;h3 id=&#34;university-of-bern-fall-2024&#34;&gt;University of Bern, Fall 2024&lt;/h3&gt;
-&lt;p&gt;MA and advanced BA
-(syllabus in prep)&lt;/p&gt;
+&lt;p&gt;MA and advanced BA&lt;/p&gt;
 &lt;p&gt;Description:
 This class provides an introduction to data exploration and descriptive and inferential statistics with a focus on applications in (comparative) linguistics using the programming language R. Topics include: frequentist versus Bayesian statistics; linear, logistic, and multilevel models; clustering and random forests; and other statistical analyses depending on the participants’ interests.&lt;/p&gt;
+&lt;p&gt;Download the &lt;a href=&#34;StatsLing_HS2024.pdf&#34;&gt;syllabus&lt;/a&gt;&lt;/p&gt;
 &lt;h3 id=&#34;university-of-california-santa-barbara-fall-2018&#34;&gt;University of California Santa Barbara, Fall 2018&lt;/h3&gt;
 &lt;p&gt;Undergrad, upper division&lt;/p&gt;
 &lt;p&gt;Download the &lt;a href=&#34;Ling104_Syllabus.pdf&#34;&gt;syllabus&lt;/a&gt;.&lt;/p&gt;
@@ -558,7 +559,7 @@ data.head()
 
 
 
-&lt;div id=&#34;chart-685942713&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-293657418&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   (function() {
     let a = setInterval( function() {
@@ -568,7 +569,7 @@ data.head()
       clearInterval( a );
 
       Plotly.d3.json(&#34;./line-chart.json&#34;, function(chart) {
-        Plotly.plot(&#39;chart-685942713&#39;, chart.data, chart.layout, {responsive: true});
+        Plotly.plot(&#39;chart-293657418&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
@@ -904,24 +905,6 @@ Crash --&gt; [*]
 &lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-bash&#34; data-lang=&#34;bash&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;jupyter nbconvert index.ipynb --to markdown --NbConvertApp.output_files_dir&lt;span class=&#34;o&#34;&gt;=&lt;/span&gt;.
 &lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;h2 id=&#34;example&#34;&gt;Example&lt;/h2&gt;
 &lt;p&gt;This post was created with Jupyter. The orginal files can be found at &lt;a href=&#34;https://github.com/gcushen/hugo-academic/tree/master/exampleSite/content/post/jupyter&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://github.com/gcushen/hugo-academic/tree/master/exampleSite/content/post/jupyter&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Privacy Policy</title>
-      <link>https://sauderset.github.io/privacy/</link>
-      <pubDate>Thu, 28 Jun 2018 00:00:00 +0100</pubDate>
-      <guid>https://sauderset.github.io/privacy/</guid>
-      <description>&lt;p&gt;Add your privacy policy here and set &lt;code&gt;draft: false&lt;/code&gt; to publish it. Otherwise, delete this file if you don&amp;rsquo;t need it.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Terms</title>
-      <link>https://sauderset.github.io/terms/</link>
-      <pubDate>Thu, 28 Jun 2018 00:00:00 +0100</pubDate>
-      <guid>https://sauderset.github.io/terms/</guid>
-      <description>&lt;p&gt;Add your terms here and set &lt;code&gt;draft: false&lt;/code&gt; to publish it. Otherwise, delete this file if you don&amp;rsquo;t need it.&lt;/p&gt;
 </description>
     </item>
     
