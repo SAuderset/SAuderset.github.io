@@ -3,7 +3,7 @@
 bibtex_2academic <- function(bibfile,
                              outfold,
                              abstract = TRUE,
-                             overwrite = FALSE) {
+                             overwrite = FALSE){
 
   if (!require("pacman")) install.packages("pacman")
   pacman::p_load(RefManageR, dplyr, stringr, anytime, tidyr, stringi)

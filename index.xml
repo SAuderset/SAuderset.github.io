@@ -24,7 +24,7 @@
     <item>
       <title>Mixtec Sound Change Database</title>
       <link>https://sauderset.github.io/resources/changes-project/</link>
-      <pubDate>Tue, 12 Dec 2023 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 06 Mar 2025 00:00:00 +0000</pubDate>
       <guid>https://sauderset.github.io/resources/changes-project/</guid>
       <description>&lt;p&gt;This database provides a comprehensive archive of Mixtec sound changes from 105 contemporary varieties, coded with a common methodology. It now also includes tone change! It is a work in progress and continuously updated. For use in your own research and citation, please refer to the most recent release archived in Zenodo.&lt;/p&gt;
 </description>
@@ -94,15 +94,59 @@ This dissertation investigates the dynamics of language change in the Mixtec lan
     </item>
     
     <item>
-      <title>Materials and Resources on Mixtecan languages</title>
-      <link>https://sauderset.github.io/resources/resources-project/</link>
-      <pubDate>Tue, 12 Dec 2023 00:00:00 +0000</pubDate>
-      <guid>https://sauderset.github.io/resources/resources-project/</guid>
-      <description>&lt;ul&gt;
-&lt;li&gt;Mixtecan Concordance: Overview of all Mixtecan-speaking villages with geographical (coordinates) and genealogical (subgrouping) information, corresponding codes, etc. combining the resources from Glottolog, INALI, Ethnologue, Multitree, Josserand 1983, Egland &amp;amp; Bartholomew 1983; providing a unique identifier for each village, expandable&lt;/li&gt;
-&lt;li&gt;Annotated Mixtec bibliography: annotating each resource with the identifier(s) of the varieties discussed, so resources can be easily found and compared - in progress&lt;/li&gt;
-&lt;/ul&gt;
+      <title>Tone in Historical Linguistics: A view from Mixtec</title>
+      <link>https://sauderset.github.io/talks/auderset-2025-tone/</link>
+      <pubDate>Tue, 16 Sep 2025 00:00:00 +0000</pubDate>
+      <guid>https://sauderset.github.io/talks/auderset-2025-tone/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Exploring diversification through integrated language comparison</title>
+      <link>https://sauderset.github.io/talks/auderset-2025-exploring/</link>
+      <pubDate>Mon, 18 Aug 2025 00:00:00 +0000</pubDate>
+      <guid>https://sauderset.github.io/talks/auderset-2025-exploring/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mixtec Sound Change Database 2.0: Integrating Tone Change</title>
+      <link>https://sauderset.github.io/publication/auderset-2025-mixtec/</link>
+      <pubDate>Wed, 11 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>https://sauderset.github.io/publication/auderset-2025-mixtec/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Comparison beyond codable traits: Tone and its contribution to typology</title>
+      <link>https://sauderset.github.io/talks/auderset-2025-comparison/</link>
+      <pubDate>Wed, 04 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>https://sauderset.github.io/talks/auderset-2025-comparison/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Anthropological Linguistics</title>
+      <link>https://sauderset.github.io/teaching/anthroling/</link>
+      <pubDate>Sun, 01 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>https://sauderset.github.io/teaching/anthroling/</guid>
+      <description>&lt;h3 id=&#34;university-of-bern-spring-2025&#34;&gt;University of Bern, Spring 2025&lt;/h3&gt;
+&lt;p&gt;MA and advanced BA&lt;/p&gt;
+&lt;p&gt;Description:
+This class provides an introduction to Anthropological linguistics, the study of human language in its social and cultural context. We examine theories on universalism and relativism and discuss their impact on the study of language with a focus on endangered languages.
+The course covers core concepts in anthropological linguistics such as kinship,
+politeness, color, and space. Further guiding questions concern the mechanisms by which culture might shape language, the universality of such processes and how much they can vary depending on context.&lt;/p&gt;
+&lt;p&gt;Download the &lt;a href=&#34;Syllabus.pdf&#34;&gt;syllabus&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;If you&amp;rsquo;re interested in teaching a similar class and would like access to the full class materials, please contact me.&lt;/p&gt;
 </description>
+    </item>
+    
+    <item>
+      <title>An empirical and quantitative reassessment of morphological autonomy</title>
+      <link>https://sauderset.github.io/talks/auderset-2024-empirical/</link>
+      <pubDate>Thu, 24 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>https://sauderset.github.io/talks/auderset-2024-empirical/</guid>
+      <description></description>
     </item>
     
     <item>
@@ -120,6 +164,14 @@ This class provides an introduction to data exploration and descriptive and infe
 &lt;p&gt;Download the &lt;a href=&#34;Ling104_Syllabus.pdf&#34;&gt;syllabus&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;If you&amp;rsquo;re interested in teaching a similar class and would like access to the full class materials, please contact me.&lt;/p&gt;
 </description>
+    </item>
+    
+    <item>
+      <title>Towards an integrative typology of tone</title>
+      <link>https://sauderset.github.io/talks/auderset-2024-towards/</link>
+      <pubDate>Fri, 23 Aug 2024 00:00:00 +0000</pubDate>
+      <guid>https://sauderset.github.io/talks/auderset-2024-towards/</guid>
+      <description></description>
     </item>
     
     <item>
@@ -145,6 +197,14 @@ This class introduces the conceptual background and methodology for creating, an
     </item>
     
     <item>
+      <title>La estructura interna de la rama Mixtecana: Un estudio filogenético bayesiano </title>
+      <link>https://sauderset.github.io/talks/auderset-2024-estructura/</link>
+      <pubDate>Tue, 16 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>https://sauderset.github.io/talks/auderset-2024-estructura/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>A Mixtec sound change database</title>
       <link>https://sauderset.github.io/publication/auderset-2024-a-mixtec/</link>
       <pubDate>Wed, 13 Mar 2024 00:00:00 +0000</pubDate>
@@ -153,10 +213,42 @@ This class introduces the conceptual background and methodology for creating, an
     </item>
     
     <item>
+      <title>Procesos morfofonológicos de pronombres y clasificadores en el Tù’un Ntá’ví (mixteco) de San Martín Duraznos</title>
+      <link>https://sauderset.github.io/talks/auderset-2024-procesos/</link>
+      <pubDate>Sat, 24 Feb 2024 00:00:00 +0000</pubDate>
+      <guid>https://sauderset.github.io/talks/auderset-2024-procesos/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Constituency in Tù&#39;un Ntá&#39;ví (Mixtec) of San Martín Duraznos</title>
       <link>https://sauderset.github.io/publication/auderset-2024-constituency/</link>
       <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
       <guid>https://sauderset.github.io/publication/auderset-2024-constituency/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Results and discussion</title>
+      <link>https://sauderset.github.io/publication/auderset-2024-constituency-disc/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>https://sauderset.github.io/publication/auderset-2024-constituency-disc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Wordhood and alignment in Duraznos Mixtec pronouns</title>
+      <link>https://sauderset.github.io/talks/auderset-2023-wordhood/</link>
+      <pubDate>Sun, 03 Dec 2023 00:00:00 +0000</pubDate>
+      <guid>https://sauderset.github.io/talks/auderset-2023-wordhood/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>(De-)constructing classes: A typological-historical approach to verbal inflection in Mixtec languages</title>
+      <link>https://sauderset.github.io/talks/auderset-2023-de-constructing/</link>
+      <pubDate>Sun, 05 Nov 2023 00:00:00 +0000</pubDate>
+      <guid>https://sauderset.github.io/talks/auderset-2023-de-constructing/</guid>
       <description></description>
     </item>
     
@@ -177,26 +269,18 @@ This class introduces the conceptual background and methodology for creating, an
     </item>
     
     <item>
+      <title>Towards a diachronic account of grammatical tone in Mixtec</title>
+      <link>https://sauderset.github.io/talks/auderset-2024-towards-a/</link>
+      <pubDate>Wed, 21 Jun 2023 00:00:00 +0000</pubDate>
+      <guid>https://sauderset.github.io/talks/auderset-2024-towards-a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Subgrouping in a `dialect continuum&#39;: A Bayesian phylogenetic analysis of the Mixtecan language family</title>
       <link>https://sauderset.github.io/publication/auderset-2023-subgrouping/</link>
       <pubDate>Thu, 01 Jun 2023 00:00:00 +0000</pubDate>
       <guid>https://sauderset.github.io/publication/auderset-2023-subgrouping/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Trabajos sobre lenguas mixtecas en California, parte 2: resultados</title>
-      <link>https://sauderset.github.io/talks/hernandez-martinez-2023-trabajos/</link>
-      <pubDate>Thu, 20 Apr 2023 00:00:00 +0000</pubDate>
-      <guid>https://sauderset.github.io/talks/hernandez-martinez-2023-trabajos/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Dynamic social and spatial relations shape mutual intelligibility between two Mixtec communities</title>
-      <link>https://sauderset.github.io/talks/mendoza-2023-dynamic/</link>
-      <pubDate>Sat, 04 Mar 2023 00:00:00 +0000</pubDate>
-      <guid>https://sauderset.github.io/talks/mendoza-2023-dynamic/</guid>
       <description></description>
     </item>
     
@@ -252,30 +336,6 @@ The code and materials for &amp;ldquo;Quantitative Methods for Typologists Using
 &lt;p&gt;Workshop class for summer school participants on the basics of LaTeX.
 Slides can be downloaded &lt;a href=&#34;LatexWorkshop&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
 </description>
-    </item>
-    
-    <item>
-      <title>Morphosyntactic positions and the indeterminacy of constituency diagnostics: a case study of San Martín Duraznos Mixtec</title>
-      <link>https://sauderset.github.io/talks/auderset-2021-morphosyntactic/</link>
-      <pubDate>Sat, 10 Apr 2021 00:00:00 +0000</pubDate>
-      <guid>https://sauderset.github.io/talks/auderset-2021-morphosyntactic/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Learning together through literacy materials for Tù&#39;un na Ñuu Sá Mátxí Ntxè&#39;è (Mixtec)</title>
-      <link>https://sauderset.github.io/talks/auderset-2021-learning/</link>
-      <pubDate>Thu, 11 Mar 2021 13:04:49 +0100</pubDate>
-      <guid>https://sauderset.github.io/talks/auderset-2021-learning/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Beyond binaries in community-centered research relationships</title>
-      <link>https://sauderset.github.io/talks/milpa-2021-beyond/</link>
-      <pubDate>Mon, 01 Mar 2021 00:00:00 +0000</pubDate>
-      <guid>https://sauderset.github.io/talks/milpa-2021-beyond/</guid>
-      <description></description>
     </item>
     
     <item>
@@ -371,48 +431,49 @@ Slides can be downloaded &lt;a href=&#34;LatexWorkshop&#34;&gt;here&lt;/a&gt;.&l
       <link>https://sauderset.github.io/post/2020-12-01-r-rmarkdown/</link>
       <pubDate>Tue, 01 Dec 2020 21:13:14 -0500</pubDate>
       <guid>https://sauderset.github.io/post/2020-12-01-r-rmarkdown/</guid>
-      <description>&lt;h1 id=&#34;r-markdown&#34;&gt;R Markdown&lt;/h1&gt;
-&lt;p&gt;This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see &lt;a href=&#34;http://rmarkdown.rstudio.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://rmarkdown.rstudio.com&lt;/a&gt;.&lt;/p&gt;
+      <description>
+
+
+&lt;div id=&#34;r-markdown&#34; class=&#34;section level1&#34;&gt;
+&lt;h1&gt;R Markdown&lt;/h1&gt;
+&lt;p&gt;This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see &lt;a href=&#34;http://rmarkdown.rstudio.com&#34; class=&#34;uri&#34;&gt;http://rmarkdown.rstudio.com&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;You can embed an R code chunk like this:&lt;/p&gt;
-&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-r&#34; data-lang=&#34;r&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;nf&#34;&gt;summary&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;cars&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;)&lt;/span&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;c1&#34;&gt;##      speed           dist       &lt;/span&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;c1&#34;&gt;##  Min.   : 4.0   Min.   :  2.00  &lt;/span&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;c1&#34;&gt;##  1st Qu.:12.0   1st Qu.: 26.00  &lt;/span&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;c1&#34;&gt;##  Median :15.0   Median : 36.00  &lt;/span&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;c1&#34;&gt;##  Mean   :15.4   Mean   : 42.98  &lt;/span&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;c1&#34;&gt;##  3rd Qu.:19.0   3rd Qu.: 56.00  &lt;/span&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;c1&#34;&gt;##  Max.   :25.0   Max.   :120.00&lt;/span&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;n&#34;&gt;fit&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;&amp;lt;-&lt;/span&gt; &lt;span class=&#34;nf&#34;&gt;lm&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;dist&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;~&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;speed&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;,&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;data&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;=&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;cars&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;)&lt;/span&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;n&#34;&gt;fit&lt;/span&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;c1&#34;&gt;## &lt;/span&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;c1&#34;&gt;## Call:&lt;/span&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;c1&#34;&gt;## lm(formula = dist ~ speed, data = cars)&lt;/span&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;c1&#34;&gt;## &lt;/span&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;c1&#34;&gt;## Coefficients:&lt;/span&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;c1&#34;&gt;## (Intercept)        speed  &lt;/span&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;c1&#34;&gt;##     -17.579        3.932&lt;/span&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;h1 id=&#34;including-plots&#34;&gt;Including Plots&lt;/h1&gt;
+&lt;pre class=&#34;r&#34;&gt;&lt;code&gt;summary(cars)
+##      speed           dist       
+##  Min.   : 4.0   Min.   :  2.00  
+##  1st Qu.:12.0   1st Qu.: 26.00  
+##  Median :15.0   Median : 36.00  
+##  Mean   :15.4   Mean   : 42.98  
+##  3rd Qu.:19.0   3rd Qu.: 56.00  
+##  Max.   :25.0   Max.   :120.00
+fit &amp;lt;- lm(dist ~ speed, data = cars)
+fit
+## 
+## Call:
+## lm(formula = dist ~ speed, data = cars)
+## 
+## Coefficients:
+## (Intercept)        speed  
+##     -17.579        3.932&lt;/code&gt;&lt;/pre&gt;
+&lt;/div&gt;
+&lt;div id=&#34;including-plots&#34; class=&#34;section level1&#34;&gt;
+&lt;h1&gt;Including Plots&lt;/h1&gt;
 &lt;p&gt;You can also embed plots. See Figure &lt;a href=&#34;#fig:pie&#34;&gt;1&lt;/a&gt; for example:&lt;/p&gt;
-&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-r&#34; data-lang=&#34;r&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;nf&#34;&gt;par&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;mar&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;=&lt;/span&gt; &lt;span class=&#34;nf&#34;&gt;c&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;m&#34;&gt;0&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;,&lt;/span&gt; &lt;span class=&#34;m&#34;&gt;1&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;,&lt;/span&gt; &lt;span class=&#34;m&#34;&gt;0&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;,&lt;/span&gt; &lt;span class=&#34;m&#34;&gt;1&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;))&lt;/span&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;nf&#34;&gt;pie&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;  &lt;span class=&#34;nf&#34;&gt;c&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;m&#34;&gt;280&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;,&lt;/span&gt; &lt;span class=&#34;m&#34;&gt;60&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;,&lt;/span&gt; &lt;span class=&#34;m&#34;&gt;20&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;),&lt;/span&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;  &lt;span class=&#34;nf&#34;&gt;c&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;s&#34;&gt;&amp;#39;Sky&amp;#39;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;,&lt;/span&gt; &lt;span class=&#34;s&#34;&gt;&amp;#39;Sunny side of pyramid&amp;#39;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;,&lt;/span&gt; &lt;span class=&#34;s&#34;&gt;&amp;#39;Shady side of pyramid&amp;#39;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;),&lt;/span&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;  &lt;span class=&#34;n&#34;&gt;col&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;=&lt;/span&gt; &lt;span class=&#34;nf&#34;&gt;c&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;s&#34;&gt;&amp;#39;#0292D8&amp;#39;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;,&lt;/span&gt; &lt;span class=&#34;s&#34;&gt;&amp;#39;#F7EA39&amp;#39;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;,&lt;/span&gt; &lt;span class=&#34;s&#34;&gt;&amp;#39;#C4B632&amp;#39;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;),&lt;/span&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;  &lt;span class=&#34;n&#34;&gt;init.angle&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;=&lt;/span&gt; &lt;span class=&#34;m&#34;&gt;-50&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;,&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;border&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;=&lt;/span&gt; &lt;span class=&#34;kc&#34;&gt;NA&lt;/span&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;p&#34;&gt;)&lt;/span&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;div class=&#34;figure&#34;&gt;
+&lt;pre class=&#34;r&#34;&gt;&lt;code&gt;par(mar = c(0, 1, 0, 1))
+pie(
+  c(280, 60, 20),
+  c(&amp;#39;Sky&amp;#39;, &amp;#39;Sunny side of pyramid&amp;#39;, &amp;#39;Shady side of pyramid&amp;#39;),
+  col = c(&amp;#39;#0292D8&amp;#39;, &amp;#39;#F7EA39&amp;#39;, &amp;#39;#C4B632&amp;#39;),
+  init.angle = -50, border = NA
+)&lt;/code&gt;&lt;/pre&gt;
+&lt;div class=&#34;figure&#34;&gt;&lt;span style=&#34;display:block;&#34; id=&#34;fig:pie&#34;&gt;&lt;/span&gt;
 &lt;img src=&#34;https://sauderset.github.io/post/2020-12-01-r-rmarkdown/index.en_files/figure-html/pie-1.png&#34; alt=&#34;A fancy pie chart.&#34; width=&#34;672&#34; /&gt;
-&lt;p class=&#34;caption&#34;&gt;&lt;span id=&#34;fig:pie&#34;&gt;&lt;/span&gt;Figure 1: A fancy pie chart.&lt;/p&gt;
+&lt;p class=&#34;caption&#34;&gt;
+Figure 1: A fancy pie chart.
+&lt;/p&gt;
+&lt;/div&gt;
 &lt;/div&gt;
 </description>
-    </item>
-    
-    <item>
-      <title>El tono el Mixteco de San Martín Duraznos</title>
-      <link>https://sauderset.github.io/talks/auderset-2020-el-tono/</link>
-      <pubDate>Sun, 01 Nov 2020 00:00:00 +0000</pubDate>
-      <guid>https://sauderset.github.io/talks/auderset-2020-el-tono/</guid>
-      <description></description>
     </item>
     
     <item>
@@ -420,38 +481,6 @@ Slides can be downloaded &lt;a href=&#34;LatexWorkshop&#34;&gt;here&lt;/a&gt;.&l
       <link>https://sauderset.github.io/publication/auderset-2020-interrogatives/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
       <guid>https://sauderset.github.io/publication/auderset-2020-interrogatives/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Correspondencias tonales regulares e irregulares en lenguas mixtecas de California</title>
-      <link>https://sauderset.github.io/talks/campbell-2019-correspondencias/</link>
-      <pubDate>Tue, 01 Oct 2019 00:00:00 +0000</pubDate>
-      <guid>https://sauderset.github.io/talks/campbell-2019-correspondencias/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Hacía un análisis de la flexión verbal en el Tù’un Na Ñuu Sá Matxí Ntxè’è (Mixteco de San Martín Duraznos)</title>
-      <link>https://sauderset.github.io/talks/auderset-2019-hacia/</link>
-      <pubDate>Tue, 01 Oct 2019 00:00:00 +0000</pubDate>
-      <guid>https://sauderset.github.io/talks/auderset-2019-hacia/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>An empirical reconsideration of tone volatility and segment stability in Mixtec languages</title>
-      <link>https://sauderset.github.io/talks/auderset-2019-an-empirical/</link>
-      <pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate>
-      <guid>https://sauderset.github.io/talks/auderset-2019-an-empirical/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Advancing the diachronic and typological study of tone with comparative lexical databases: a case study of five Mixtec varieties</title>
-      <link>https://sauderset.github.io/talks/auderset-2019-advancing/</link>
-      <pubDate>Thu, 01 Aug 2019 00:00:00 +0000</pubDate>
-      <guid>https://sauderset.github.io/talks/auderset-2019-advancing/</guid>
       <description></description>
     </item>
     
@@ -559,7 +588,7 @@ data.head()
 
 
 
-&lt;div id=&#34;chart-293657418&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-213645978&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   (function() {
     let a = setInterval( function() {
@@ -569,7 +598,7 @@ data.head()
       clearInterval( a );
 
       Plotly.d3.json(&#34;./line-chart.json&#34;, function(chart) {
-        Plotly.plot(&#39;chart-293657418&#39;, chart.data, chart.layout, {responsive: true});
+        Plotly.plot(&#39;chart-213645978&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();

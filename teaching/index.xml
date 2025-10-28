@@ -5,12 +5,28 @@
     <link>https://sauderset.github.io/teaching/</link>
       <atom:link href="https://sauderset.github.io/teaching/index.xml" rel="self" type="application/rss+xml" />
     <description>Teachings</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 01 Sep 2024 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jun 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://sauderset.github.io/media/icon_hu48642f0b9060ac255b5794276cadbe1e_24938_512x512_fill_lanczos_center_3.png</url>
       <title>Teachings</title>
       <link>https://sauderset.github.io/teaching/</link>
     </image>
+    
+    <item>
+      <title>Anthropological Linguistics</title>
+      <link>https://sauderset.github.io/teaching/anthroling/</link>
+      <pubDate>Sun, 01 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>https://sauderset.github.io/teaching/anthroling/</guid>
+      <description>&lt;h3 id=&#34;university-of-bern-spring-2025&#34;&gt;University of Bern, Spring 2025&lt;/h3&gt;
+&lt;p&gt;MA and advanced BA&lt;/p&gt;
+&lt;p&gt;Description:
+This class provides an introduction to Anthropological linguistics, the study of human language in its social and cultural context. We examine theories on universalism and relativism and discuss their impact on the study of language with a focus on endangered languages.
+The course covers core concepts in anthropological linguistics such as kinship,
+politeness, color, and space. Further guiding questions concern the mechanisms by which culture might shape language, the universality of such processes and how much they can vary depending on context.&lt;/p&gt;
+&lt;p&gt;Download the &lt;a href=&#34;Syllabus.pdf&#34;&gt;syllabus&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;If you&amp;rsquo;re interested in teaching a similar class and would like access to the full class materials, please contact me.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Statistics for linguistics using R</title>
