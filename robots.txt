@@ -1,3 +1,0 @@
-User-agent: *
-
-Sitemap: https://sauderset.github.io/sitemap.xml

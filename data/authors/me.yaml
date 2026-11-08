@@ -1,0 +1,64 @@
+schema: hugoblox/author/v1
+slug: me
+is_owner: true
+name:
+  display: Sandra Auderset
+  given: Sandra
+  family: Auderset
+  alternate: ''
+  pronunciation: ''
+  pronouns: she/her
+postnominals:
+  - PhD
+status:
+  icon: "☕️"
+role: Postdoctoral Researcher in Linguistics
+bio: |
+  I research how languages diversify over time and how we can trace and explain diversification. I work on tone and sound change, subgrouping, and person marking, with a focus on Mixtecan (Mexico). I combine quantitative methods and data-driven comparison with detailed analyses of individual varieties. To develop the empirical foundations needed, I conduct long-term fieldwork on Mixtec and Cuicatec varieties and develop openly available cross-linguistic resources.
+
+  I'm currently a postdoctoral researcher in the Department of Linguistics at the University of Bern. I have a PhD in Linguistics from the University of California, Santa Barbara (USA) and the Department of Linguistic and Cultural Evolution at the Max Planck Institute for Evolutionary Anthropology in Leipzig (Germany).
+  My [dissertation](/content/research/thesis-project) is a collection of three articles on Mixtec(an) language history using qualitative and quantitative methods.
+
+  **News and updates:**
+  - I got a [Firebird Research Grant](https://www.firebirdresearchgrants.org/) for continuing the documentation of Santos Reyes Pápalo Cuicatec
+  - November 2026: I will give a talk at the [Transalpine Typology Meeting](https://sites.google.com/unipv.it/transalpine-typology-meeting/ttm26?pli=1&authuser=0) in Munich on Mixtec pronouns and classifiers
+  - August 2026: Co-hosted a workshop on [Microtypology](https://societaslinguistica.eu/sle2026/wp-content/uploads/sites/9/2025/12/Microtypology_updated.pdf) at SLE with Linda Konnerth and Sergey Say
+  - July 2026: I contributed to a position paper on language documentation infrastructure (/publication/gessler-2026-the-missing)
+  - April 2026: New database paper out in [Journal of Open Humanities Data](/publication/auderset-2026-a-database)
+
+
+affiliations:
+  - name: Department of Linguistics, University of Bern
+    url: https://www.isw.unibe.ch/
+
+links:
+  - icon: at-symbol
+    url: mailto:sandra.auderset@unibe.ch
+    label: E-mail
+  - icon: brands/github
+    url: https://github.com/SAuderset
+  - icon: academicons/google-scholar
+    url: https://scholar.google.com/citations?user=ADh3ExEAAAAJ&hl=en
+  - icon: academicons/orcid
+    url: https://orcid.org/0000-0002-4673-4814
+  - icon: academicons/cv
+    url: /uploads/resume.pdf
+    label: CV
+
+interests:
+  - Language change and language history
+  - Quantitative methods
+  - Diachrony of tone
+  - Community-centered language documentation
+  - Diachronic typology
+
+education:
+  - degree: PhD in Linguistics
+    institution: University of California Santa Barbara
+    year: 2022
+  - degree: MA in General Linguistics
+    institution: Universität Zürich
+    year: 2015
+  - degree: BA in General Linguistics and Comparative Indo-European Linguistics
+    institution: Universität Zürich
+    year: 2013
