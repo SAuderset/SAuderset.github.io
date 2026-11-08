@@ -68,8 +68,8 @@ sections:
         folders:
           - teaching
     design:
-      view: list
-      columns: 2
+      view: date-title-summary
+      columns: 1
 
   - block: markdown
     id: contact
